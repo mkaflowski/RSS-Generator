@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+   <channel>
+      <atom:link href="https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/rss.rss" rel="self" type="application/rss+xml" />
+      <title>RSS Title</title>
+      <description>Lorem Ipsum description.</description>
+      <itunes:author>Authors</itunes:author>
+      <link>https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/rss.rss</link>
+      <image>
+         <url>https://cdn.r357.eu/1560090d-c91f-4893-8e15-94920309131b.jpeg</url>
+         <title>RSS Title</title>
+         <link>https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/rss.rss</link>
+      </image>
+      <itunes:image href="https://cdn.r357.eu/1560090d-c91f-4893-8e15-94920309131b.jpeg"/>
+      <item>
+         <guid isPermaLink="false">https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/05.10.21%20Benzyne%20mamy%20we%20krwi.mp3</guid>
+         <link>https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/05.10.21%20Benzyne%20mamy%20we%20krwi.mp3</link>
+         <enclosure url="https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/05.10.21%20Benzyne%20mamy%20we%20krwi.mp3"/>
+         <title>05.10.21 Benzyne mamy we krwi</title>
+         <description>05.10.21 Benzyne mamy we krwi</description>
+         <pubDate>Mon, 04 Oct 2021 22:00:00 +0000</pubDate>
+         <enclosure url="https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/05.10.21%20Benzyne%20mamy%20we%20krwi.mp3" type="audio/mpeg" length="58240114"/>
+      </item>
+      <item>
+         <guid isPermaLink="false">https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/28.09.21%20Benzyne%20mamy%20we%20krwi.mp3</guid>
+         <link>https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/28.09.21%20Benzyne%20mamy%20we%20krwi.mp3</link>
+         <enclosure url="https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/28.09.21%20Benzyne%20mamy%20we%20krwi.mp3"/>
+         <title>28.09.21 Benzyne mamy we krwi</title>
+         <description>28.09.21 Benzyne mamy we krwi</description>
+         <pubDate>Mon, 27 Sep 2021 22:00:00 +0000</pubDate>
+         <enclosure url="https://kofii12345.usermd.net//Users/mateuszkaflowski/PycharmProjects/RssGenerator/example/28.09.21%20Benzyne%20mamy%20we%20krwi.mp3" type="audio/mpeg" length="57081452"/>
+      </item>
+   </channel>
+</rss>
