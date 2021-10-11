@@ -2,6 +2,7 @@
 PHP/Python website generating rss after uploading audio files
 
 You can upload files directly by navigation to example folder. It will run run.php after that. It will convert aac to ogg and generate rss.
+File uploading is based on https://github.com/Oros42/tiny_DnDUp.
 
 ## Installation
 
