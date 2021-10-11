@@ -24,7 +24,7 @@ echo $output;
 $command = escapeshellcmd('python '.$filePath.'/generator.py --dirname '.$filePath.'/do_dechy --extensions "aac,mp3,ogg" 
 	--title "RSS Title" -H https://kofii12345.usermd.net
 	--description "Lorem Ipsum Desription"
-     --image https://test.jpeg
+     	--image https://test.jpeg
                --sort-creation -H https://host.pl
                --author "Authors"
                --out '.$filePath.'/example/rss.rss');
