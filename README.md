@@ -12,7 +12,8 @@ Form converter you need ffmpeg and:
 ## Configuration:
 RSS generating is based on https://github.com/amsehili/genRSS and you need to configure run.php.
 
-'//AAC TO OGG CONVERTING
+```php
+//AAC TO OGG CONVERTING
 $command = escapeshellcmd('python '.$filePath.'/converter.py exampleZ');
 echo 'python '.$filePath.'/converter.py';
 $output = shell_exec($command);
@@ -27,5 +28,5 @@ $command = escapeshellcmd('python '.$filePath.'/generator.py --dirname '.$filePa
                --author "Authors"
                --out '.$filePath.'/example/rss.rss');
 $output = shell_exec($command);
-echo $output;'
+echo $output;```
 
