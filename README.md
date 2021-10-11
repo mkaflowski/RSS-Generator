@@ -22,7 +22,7 @@ echo $output;
 
 //GENERATING RSS
 $command = escapeshellcmd('python '.$filePath.'/generator.py --dirname '.$filePath.'/do_dechy --extensions "aac,mp3,ogg" 
-	--title "RSS Title" -H https://kofii12345.usermd.net
+	--title "RSS Title" -H https://hostname.com
 	--description "Lorem Ipsum Desription"
      	--image https://test.jpeg
                --sort-creation -H https://host.pl
